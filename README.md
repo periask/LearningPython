@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./python-logo-generic.svg" />
+</p>
 # Introduction
 Python is a high-level, general-purpose programming language. It mostly uses English keywords and elegant syntax that makes the language easy to read and understand. It can run on any OS (Linux, Unix, Mac OS X, Windows and even Android and IOS).
 
