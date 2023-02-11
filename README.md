@@ -56,3 +56,33 @@ The programers can write their own user-defined exceptions derived from the `Exc
 
 ## Predefined Clean-up Actions
 Some objects define standard clean-up actions to be undertaken when the object is no longer needed. The `with` statement clarifies code to ensure that clean-up code is executed when the object goes out of scope. 
+
+# Jupyter Notebook
+There are many ways to run python statements. One of the popular ways is Jupyter Notebook. We are going to have one Jupyter Notebook for each chapter. Please check this manual for more details on [Jupyter Notebook](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-tigr6f9v/notebooks/binder/Index.ipynb).
+
+## Install 
+Install ipython and jupyter
+
+with [conda](https://www.anaconda.com/download):
+
+```shell
+conda install ipython jupyter
+```
+
+with pip:
+
+```bash
+pip install --upgrade ipython jupyter
+```
+
+## Clone this project
+
+```bash
+git clone https://github.com/periask/LearningPython.git
+```
+## Start the notebook
+
+```bash
+cd LearningPython
+jupyter notebook
+```
